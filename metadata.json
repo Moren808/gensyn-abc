@@ -1,0 +1,7 @@
+{
+  "name": "The ABCs of Gensyn",
+  "description": "A simplified explanation of what Gensyn is building, breaking down complex concepts into easy-to-understand points for everyone.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
